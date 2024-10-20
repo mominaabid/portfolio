@@ -1,2 +1,2 @@
-# portfolio
+This repository contains the code for my portfolio website, built using basic HTML and CSS. The site showcases my work in a clean and simple layout, making it easy to navigate. Each section is styled using CSS to enhance the visual appeal while maintaining a focus on clarity and functionality. Feel free to clone this repository to explore the structure and styles, and see how I present my projects!# portfolio
 portfolio website
